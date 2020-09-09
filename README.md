@@ -1,4 +1,4 @@
-Official ndm extension for chrome cannot download youtube's video.
+The official ndm extension for chrome cannot download youtube's video.
 
 But firefox's extension is ok.
 
